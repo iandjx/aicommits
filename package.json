@@ -1,6 +1,6 @@
 {
-	"name": "aicommits",
-	"version": "0.0.0-semantic-release",
+	"name": "@iandjx/aicommits",
+	"version": "0.0.5",
 	"description": "Writes your git commit messages for you with AI",
 	"keywords": [
 		"ai",
